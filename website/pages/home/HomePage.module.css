@@ -1,4 +1,6 @@
 .homePage {
+  overflow-x: hidden;
+
   & .testingTerminal {
     position: absolute;
     top: 110px;
